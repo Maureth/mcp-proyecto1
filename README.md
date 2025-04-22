@@ -14,6 +14,10 @@ Este proyecto es un servidor MCP (Model Context Protocol) que permite la comunic
 3. **Transporte**:
    - El servidor escucha las conexiones del cliente a través de un transporte de entrada/salida estándar local (`StdioServerTransport`).
 
+## SDK Utilizado
+
+Este proyecto utiliza el SDK de MCP (Model Context Protocol) para TypeScript, el cual proporciona herramientas y clases necesarias para implementar servidores MCP de manera eficiente.
+
 ## Cómo usar
 
 1. Instalar las dependencias necesarias especificadas en `package.json`.
